@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    
+    margin: 0px;
+    
+}
+section { 
+    padding: 1px;
+    background-color:green;
+    margin: 0px;
+  
+}
+
+
+h2 {
+    color: white;
+    background-color: black;
+    padding:30px;
+    
+    margin: 0px;
+    
+}
+p{ 
+    background-color:
+    aqua ;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+}
+#container div{
+    background-color:yellow;
+    border-color: yellow; 
+}
+
+#sub-headings{
+    background-color: purple;
+    border: solid purple 10px;
+}
+.heading-other{
+    background-color: blue;
+    padding: 30px;
+}
+#container {
+    background-color: green;
+}
+.large {
+    font-size: 35px;
+    font-weight:bolder;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+article #container{
+    border: solid green 10px;
+    padding: green;
+    
+}
+#container div{
+    border: solid yellow 1px;
+}
